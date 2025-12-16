@@ -1,7 +1,6 @@
 
-# 📊 KPMG Data Analysis Using MS Excel  
+#  KPMG Data Analysis Using MS Excel  
 
-> **Course:** Data Management and Analysis with MS Excel  
 > **Project Type:** End-to-End Business Data Analysis  
 > **Dataset:** KPMG Customer & Transaction Data  
 > **Tools Used:** Microsoft Excel (Advanced), Pivot Tables, Charts, Business Analysis  
@@ -47,7 +46,7 @@ The project follows a **structured 6-task approach**, progressing from data clea
 
 ---
 
-## 🧹 Task 1: Data Cleaning & Preparation  
+##  Task 1: Data Cleaning & Preparation  
 
 **Objective:** Prepare high-quality, analysis-ready datasets.
 
@@ -60,7 +59,7 @@ The project follows a **structured 6-task approach**, progressing from data clea
 
 ---
 
-## 👥 Task 2: Customer Segmentation  
+##  Task 2: Customer Segmentation  
 
 - Segmentation by Wealth Segment  
 - Segmentation by Gender  
@@ -70,7 +69,7 @@ The project follows a **structured 6-task approach**, progressing from data clea
 
 ---
 
-## 📈 Task 3: Transaction Analysis  
+##  Task 3: Transaction Analysis  
 
 - Monthly sales trend analysis  
 - Brand and product-line performance  
@@ -81,7 +80,7 @@ The project follows a **structured 6-task approach**, progressing from data clea
 
 ---
 
-## 🌍 Task 4: New Customer Insights  
+##  Task 4: New Customer Insights  
 
 - Wealth and industry distribution  
 - Geographic concentration by state  
@@ -90,7 +89,7 @@ The project follows a **structured 6-task approach**, progressing from data clea
 
 ---
 
-## 💰 Task 5: Customer Lifetime Value (CLV) Analysis  
+##  Task 5: Customer Lifetime Value (CLV) Analysis  
 
 **Formula Used:**  
 CLV = (Average Purchase Value × Purchase Frequency) × Customer Lifespan  
@@ -101,7 +100,7 @@ CLV = (Average Purchase Value × Purchase Frequency) × Customer Lifespan
 
 ---
 
-## 🧠 Task 6: Executive Summary & Recommendations  
+##  Task 6: Executive Summary & Recommendations  
 
 ### Key Insights:
 - Revenue driven by high-value customer segments  
@@ -126,7 +125,7 @@ CLV = (Average Purchase Value × Purchase Frequency) × Customer Lifespan
 
 ---
 
-## 📁 Project Structure  
+##  Project Structure  
 
 ```
 KPMG-Excel-Data-Analysis/
@@ -142,7 +141,7 @@ KPMG-Excel-Data-Analysis/
 
 ---
 
-## 🚀 Key Takeaways  
+##  Key Takeaways  
 
 - End-to-end Excel-based data analysis  
 - Business-focused insights and recommendations  
